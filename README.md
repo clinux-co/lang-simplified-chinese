@@ -18,7 +18,7 @@ composer remove clinux-co/lang-simplified-chinese
 
 ### 本地化 / Localization
   - 调整时间格式
-  - 优化简体中文字体显示
+  <i> - 优化简体中文字体显示 </i>
 
 ### 支持的扩展 / Supported Extensions
   - [amaurycarrade-syndication](https://discuss.flarum.org/d/4395)
