@@ -1,6 +1,6 @@
 ## Flarum 简体中文语言包 / Simplified Chinese Language Pack
 
-#### 因原版的字体优化会使英文变得不那么清晰，故创建此fork。
+#### 因原版的字体优化会使英文变得不清晰，故创建此fork。
 
 ### 需求 / Requirement
   - Flarum v0.1.0-beta.8 及更高版本
